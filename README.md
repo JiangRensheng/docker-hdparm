@@ -1,4 +1,4 @@
-hdparm
+#docker-hdparm
 
 Usage example:
 docker run -it --privileged -rm hdparm -tT /dev/sda
